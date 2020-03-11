@@ -20,5 +20,5 @@ __Here a Postman collection of API's to get real time data for all effected case
   
   _All of these API's are hosted at @runkit so please if you get some sort of latency then please refer to my notebook https://runkit.com/ashifa454/covid-19-realtime and host your code anywhere you want.✌_
   
-  Check Post collection here : 
+  Check Postman collection here : 
   https://explore.postman.com/templates/6182/covid-19
